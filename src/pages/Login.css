@@ -1,0 +1,82 @@
+.login-div {
+    margin: 10px 10px;
+}
+
+.header{
+    color: #ee9651;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-size: xx-large;
+
+}
+
+.login{
+    display: block;
+    --background:#ee9651;
+    --background-activated: #e8bc99;
+}
+
+.signup{
+    --background:#c1b540;
+    --background-activated: #d5cb7c;
+    display: block;
+    margin-top: 20px;
+
+}
+
+.remember-me {
+   text-align: end;
+   color: #fff;
+   float: right;
+   margin-bottom: 20px;
+
+}
+
+.img-size {
+    height: 75px;
+}
+
+.forgot {
+    margin: 10px;
+    text-align: center;
+    color: #fff!important;
+    font-size: 13px;
+    text-decoration: underline;
+}
+
+.background {
+    background: #cbe0f5;
+  }
+
+  .remember-me {
+      background: transparent;
+  }
+
+  ion-checkbox {
+      --background: transparent;
+      --border-color: #fff;
+  }
+
+  .bg-dark {
+    color: #fff;
+  }
+
+  .lbl-padding  {
+      padding-left: 10px;
+  }
+
+  .ion-custom {
+      --background: #cbe0f5;
+      color: #fff;
+      margin: 15px 0px 3px 0px;
+      font-size: larger;
+  }
+
+.invalidCredentials {
+    margin: 40px 0px 15px 0px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
